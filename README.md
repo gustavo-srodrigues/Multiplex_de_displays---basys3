@@ -1,2 +1,2 @@
-# Multiplex_de_displays---basys3
+# Multiplexação de Displays
 Trabalho de Prática de Eletrônica Digital I
